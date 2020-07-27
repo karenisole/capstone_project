@@ -7,12 +7,8 @@ Now that We have been equipped with the skills and the tools to use location dat
 problem that We can use the Foursquare location data to solve.
 
 ## 1) Introduction/Business Problem
-There are many attractions in Mexico City. However, tourists always question whether it is dangerous for them to visit. So,  the business problem is to help tourists what zones of Mexico city are dangerous and what kind of problems they could find. 
+I want to use this opportunity to see how alike is San Antonio to Mexico City. I have a new job, and it is located there. So if there is any possibility for me to change locations, I want to be prepared to move there. 
 
 ## 2) Downloading and Prepping Data
 
-Free WIFI sites in Mexico City (CDMX)  - If they have a problem, they could use free Wifi. URL: https://datos.cdmx.gob.mx/explore/dataset/sitios-publicos-wifi/table/
-
-Crimes per Zip code. URL: https://datosseguridad.cdmx.gob.mx/tablero/diario/reclasificacion
-
-The places most visited in Mexico City
+Just to know more about San Antonio, I am going to use Foursquare to compare both locations. 
