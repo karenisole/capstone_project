@@ -7,8 +7,14 @@ Now that We have been equipped with the skills and the tools to use location dat
 problem that We can use the Foursquare location data to solve.
 
 ## 1) Introduction/Business Problem
-I want to use this opportunity to see how alike is San Antonio to Mexico City. I have a new job, and it is located there. So if there is any possibility for me to change locations, I want to be prepared to move there. 
+I have taken my first steps towards acquiring skills related to data science by doing the IBM Data Science Professional Certificate course on Coursera. The last module of this course is a capstone project. I want to use this opportunity to looking for a neighborhood in San Antonio close to my preferences. I have a new job, and it is located there. So if there is any possibility for me to change locations, I want to be prepared to move there. 
 
 ## 2) Downloading and Prepping Data
 
-Just to know more about San Antonio, I am going to use Foursquare to compare both locations. 
+To perform this analysis, we will need the following data:
+
+Geo-coordinates of the districts in San Antonio Tx
+Top venues of districts
+
+Geo-coordinates of districts will be obtained with the help of the geocoder tool in the notebook.
+Top venues data will be obtained from Foursquare through an API.
