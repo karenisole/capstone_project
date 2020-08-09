@@ -14,7 +14,7 @@ Geo-coordinates of New York and Toronto. Also, I would obtain Geo-coordinates of
 
 For this case, I used a list of Toronto's zip codes, including the boroughs and neighborhood names, to locate the Top venues. 
 
-**_Toronto_ **
+**_Toronto_**
 
 The geographical coordinate of Toronto, Canada, are 43.6534817, -79.3839347.
 Toronto has ten boroughs and 103 neighborhoods.
@@ -31,23 +31,20 @@ Neighborhood 1st Most Common Venue  \
 4                               Woodbine Heights    Athletics & Sports   
 
 Analyzing this venue, I think that if I am going to live in Toronto with one of my best friends in cluster number 2. There are more venues and also a Mexican Restaurant! I love it
-**_New York_ **
 
-## 4) Results
-
-Toronto Top Venues
-
-New York Venues
-
-Although I would love living in New York for the diversity and variety of things. I would say that the best option to be living in Toronto and New York are:
-Toronto
-
-New York
+**_New York_**
 The geographical coordinate of New York City are 40.7127281, -74.0060152.
 The geographical coordinate of Brooklyn are 40.6501038, -73.9495823.
 Latitude and longitude values of East Flatbush are 40.64171776668961, -73.93610256185836.
 Found 2112 venues in 70 neighborhoods.
 I prefer to live in cluster number 1 or 4.
+
+## 4) Results
+
+Although I would love living in New York for the diversity and variety of things. I would say that the best option to be living in Toronto and New York are:
+Toronto
+
+
 
 ## 5) Discussion
 I could say that I had to change the top venue of Toronto and New York because Toronto does not have many things to do compared to New York. 
